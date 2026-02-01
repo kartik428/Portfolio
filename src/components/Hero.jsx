@@ -1,5 +1,5 @@
 import AnimatedUser from "../assets/images/animateduser.png";
-import BgVideo from "/15439679-uhd_2560_1440_30fps.mp4"
+
 import { motion } from "framer-motion";
 
 const Hero = () => {
@@ -17,7 +17,7 @@ const Hero = () => {
         className="absolute top-0 left-0 w-full h-screen object-cover -z-10"
       >
         <source
-          src={BgVideo}
+          src="/15439679-uhd_2560_1440_30fps.mp4"
           type="video/mp4"
         />
       </video>
