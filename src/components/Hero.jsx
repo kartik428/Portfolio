@@ -17,7 +17,7 @@ const Hero = () => {
         className="absolute top-0 left-0 w-full h-screen object-cover -z-10"
       >
         <source
-          src="/15439679-uhd_2560_1440_30fps.mp4"
+          src="/bgvideo.mp4"
           type="video/mp4"
         />
       </video>
